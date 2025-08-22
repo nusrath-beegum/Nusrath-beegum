@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nusrath Beegum</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m completed my **Frontend Course**
+- 🌱 I’m completed my **Frontend Developer Course**
 
 - 📫 How to reach me **nusrathbeegum123@gmail.com**
 
